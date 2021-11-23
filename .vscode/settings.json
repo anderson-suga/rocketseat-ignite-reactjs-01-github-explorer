@@ -7,7 +7,7 @@
     // Configurações da fonte JetBrains Mono
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "editor.lineHeight": 26,
     "editor.semanticHighlighting.enabled": false,
     "editor.minimap.enabled": false,
