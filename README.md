@@ -1,3 +1,3 @@
 # Rocketseat | Ignite | ReactJS
 
-Chapter I - 01-github-explorer
+Chapter I | 01-github-explorer
